@@ -17,7 +17,7 @@ echo -e "                               by-$BOLD rouze_d$STAND"
 echo -e "$BLUE Encrypt your BASH shell/script"
 #echo -e "$GREEN$BOLD Encrypt$STAND your$GREEN$BOLD BASH$STAND script"
 echo -e "$RED$BOLD Encode your bash script$STAND"
-#echo -e "$GREEN by- rouze_d"
+echo -e "$GREEN by- rouze_d"
 echo -e "$STAND\n input file  : \c"
 read infile
 
